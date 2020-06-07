@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="77676" started-at="2020-06-04T19:38:41 IST" finished-at="2020-06-04T19:39:59 IST">
+  <suite name="Default suite" duration-ms="54120" started-at="2020-06-08T00:24:14 IST" finished-at="2020-06-08T00:25:08 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="77676" started-at="2020-06-04T19:38:41 IST" finished-at="2020-06-04T19:39:59 IST">
+    <test name="Default test" duration-ms="54120" started-at="2020-06-08T00:24:14 IST" finished-at="2020-06-08T00:25:08 IST">
       <class name="Topgear.com.selenium.L1.Assignment">
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:Topgear.com.selenium.L1.Assignment@57e1b0c]" name="setUpMethod" is-config="true" duration-ms="6862" started-at="2020-06-04T19:38:41 IST" finished-at="2020-06-04T19:38:48 IST">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:Topgear.com.selenium.L1.Assignment@7770f470]" name="setUpMethod" is-config="true" duration-ms="8368" started-at="2020-06-08T00:24:14 IST" finished-at="2020-06-08T00:24:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:Topgear.com.selenium.L1.Assignment@57e1b0c]" name="test1" duration-ms="32404" started-at="2020-06-04T19:38:48 IST" finished-at="2020-06-04T19:39:20 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:Topgear.com.selenium.L1.Assignment@57e1b0c]" name="tearDownMethod" is-config="true" duration-ms="321" started-at="2020-06-04T19:39:20 IST" finished-at="2020-06-04T19:39:21 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:Topgear.com.selenium.L1.Assignment@57e1b0c]" name="setUpMethod" is-config="true" duration-ms="5656" started-at="2020-06-04T19:39:21 IST" finished-at="2020-06-04T19:39:26 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpMethod -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:Topgear.com.selenium.L1.Assignment@57e1b0c]" name="test2" duration-ms="32058" started-at="2020-06-04T19:39:26 IST" finished-at="2020-06-04T19:39:58 IST">
+        <test-method status="PASS" signature="test2()[pri:0, instance:Topgear.com.selenium.L1.Assignment@7770f470]" name="test2" duration-ms="45360" started-at="2020-06-08T00:24:22 IST" finished-at="2020-06-08T00:25:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:Topgear.com.selenium.L1.Assignment@57e1b0c]" name="tearDownMethod" is-config="true" duration-ms="301" started-at="2020-06-04T19:39:58 IST" finished-at="2020-06-04T19:39:59 IST">
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:Topgear.com.selenium.L1.Assignment@7770f470]" name="tearDownMethod" is-config="true" duration-ms="307" started-at="2020-06-08T00:25:08 IST" finished-at="2020-06-08T00:25:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
